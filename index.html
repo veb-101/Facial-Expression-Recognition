@@ -1142,6 +1142,7 @@
       <thead>
         <tr>
           <th>model</th>
+          <th>Epochs</th>>
           <th>LR</th>
           <th>Test accuracy</th>
         </tr>
@@ -1149,23 +1150,51 @@
       <tbody>
         <tr>
           <td>Emotion Recognition</td>
+          <td>20</td>
           <td>None</td>
           <td>0.659</td>
         </tr>
         <tr>
           <td>ResNet9 (current)</td>
+          <td>20</td>
           <td>None</td>
           <td>0.651</td>
         </tr>
         <tr>
           <td>Resnet9</td>
+          <td>20</td>
           <td>OneCycleLr</td>
           <td>0.327</td>
         </tr>
         <tr>
           <td>Emotion Recognition</td>
+          <td>20</td>
           <td>OneCycleLr</td>
           <td>0.26</td>
+        </tr>
+        <tr>
+          <td>Emotion Recognition</td>
+          <td>30</td>
+          <td>None</td>
+          <td>0.67</td>
+        </tr>
+        <tr>
+          <td>ResNet9</td>
+          <td>30</td>
+          <td>None</td>
+          <td>0.66</td>
+        </tr>
+        <tr>
+          <td>Emotion Recognition</td>
+          <td>30</td>
+          <td>ReduceLROnPlateau</td>
+          <td>0.664</td>
+        </tr>
+        <tr>
+          <td>ResNet9</td>
+          <td>30</td>
+          <td>ReduceLROnPlateau</td>
+          <td>0.683</td>
         </tr>
       </tbody>
     </table>
