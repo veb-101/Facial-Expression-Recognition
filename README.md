@@ -6,3 +6,7 @@ Hello everyone, I hope you are doing well during these time. In this project, we
 
 - Blog Post detailing steps: [github pages](https://veb-101.github.io/Facial-Expression-Recognition/)
 - Jupyter notebook (hosted on jovian.ml) -> [Facial Expression Recognition using PyTorch](https://jovian.ml/vaibhav-singh-3001/facial-expression-recognition)
+
+##### Updates
+
+1. Notebook updated to use `ReduceLROnPlateau` learning rate scheduler.
