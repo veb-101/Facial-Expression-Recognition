@@ -6,7 +6,7 @@ Hello everyone, I hope you are doing well during these time. In this post, we're
 
 This post is a part of my final project for the free course provided by [jovian.ml - Pytorch: zero to gans](https://jovian.ml/forum/t/start-here-welcome-to-deep-learning-with-pytorch-zero-to-gans/1622).
 
-## Table of Content
+<!-- ## Table of Content
 
 1. Introduction
 2. Importing modules
@@ -256,4 +256,4 @@ We've covered a lot of ground in this tutorial. Here's quick recap of the topics
 6. We looked at how to use the `nn.Module` class and also created a `BaseClass` that can be used for any image classification model.
 7. Created our own version of ResNet9 class and a custom CNN model for comparison.
 8. Created various helper functions to tie different components together.
-9. Finally we trained our model and plotted the training results.
+9. Finally we trained our model and plotted the training results. -->
